@@ -4036,8 +4036,8 @@
           "autoclaim:1": 0,
           "ismain:1": 0,
           "repeat_relative:1": 1,
-          "name:8": "Did you know we have veinminer?",
-          "desc:8": "You may have discovered that planks are a little harder to come by than usual. To make up for it, you can harvest multiple logs with§3§9 OreExcavation§0§r, by holding down the grave key, by default. This works for all blocks. The§4 appropriate tool§0 is meant to be required to use §9OreExcavation§0, but isn\u0027t due to a bug."
+          "name:8": "Did you know SSyl disabled veinminer?",
+          "desc:8": "You may have discovered that planks are a little harder to come by than usual. Normally that would be offset by OreExcavator, but SSyl disabled it because it feels cheap. Also, it's an expert pack. No shortcuts. Deal with it."
         }
       },
       "tasks:9": {
