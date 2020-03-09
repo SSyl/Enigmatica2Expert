@@ -4,7 +4,10 @@
 /crash-reports/
 /.mixin.out/
 /logs/
-/local/
+!local/
+/local/*
+!local/client
+/local/client/*
 /libraries/
 /llibrary/
 /saves/
@@ -14,7 +17,11 @@
 /world/
 
 #File to explcitly include
-!/local/client/sidebar_buttons.json
+!local/
+/local/*
+!local/client
+/local/client/*
+!local/client/sidebar_buttons.json
 
 # Utilities
 .github_changelog_generator
