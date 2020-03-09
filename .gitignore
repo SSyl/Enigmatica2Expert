@@ -13,6 +13,9 @@
 /mods/
 /world/
 
+#File to explcitly include
+!/local/client/sidebar_buttons.json
+
 # Utilities
 .github_changelog_generator
 github_changelog_generator.gemspec
