@@ -1,4 +1,4 @@
-print("--- loading SSylTweaks.zs ---");
+print("--- loading SSylTweaks-PaintedPlanks.zs ---");
 //Remove Rustic Stained Plank Recipes
 recipes.remove(<rustic:painted_wood_white>);
 recipes.remove(<rustic:painted_wood_orange>);
@@ -119,83 +119,83 @@ recipes.addShaped(<rustic:painted_wood_black> * 8,
 
 //Re-add so it's not overwritten
 recipes.addShaped(<quark:stained_planks:0> * 8, 
-[[<ore:plankWood>, <ore:dyeWhite>, <ore:plankWood>], 
+[[<ore:plankWood>, <ore:plankWood>, <ore:plankWood>], 
 [<ore:plankWood>, <ore:plankWood>, <ore:plankWood>], 
-[<ore:plankWood>, <ore:plankWood>, <ore:plankWood>]]);
+[<ore:plankWood>, <ore:dyeWhite>, <ore:plankWood>]]);
 
 recipes.addShaped(<quark:stained_planks:1> * 8, 
-[[<ore:plankWood>, <ore:dyeOrange>, <ore:plankWood>], 
+[[<ore:plankWood>, <ore:plankWood>, <ore:plankWood>], 
 [<ore:plankWood>, <ore:plankWood>, <ore:plankWood>], 
-[<ore:plankWood>, <ore:plankWood>, <ore:plankWood>]]);
+[<ore:plankWood>, <ore:dyeOrange>, <ore:plankWood>]]);
 
 recipes.addShaped(<quark:stained_planks:2> * 8, 
-[[<ore:plankWood>, <ore:dyeMagenta>, <ore:plankWood>], 
+[[<ore:plankWood>, <ore:plankWood>, <ore:plankWood>], 
 [<ore:plankWood>, <ore:plankWood>, <ore:plankWood>], 
-[<ore:plankWood>, <ore:plankWood>, <ore:plankWood>]]);
+[<ore:plankWood>, <ore:dyeMagenta>, <ore:plankWood>]]);
 
 recipes.addShaped(<quark:stained_planks:3> * 8, 
-[[<ore:plankWood>, <ore:dyeLightBlue>, <ore:plankWood>], 
+[[<ore:plankWood>, <ore:plankWood>, <ore:plankWood>], 
 [<ore:plankWood>, <ore:plankWood>, <ore:plankWood>], 
-[<ore:plankWood>, <ore:plankWood>, <ore:plankWood>]]);
+[<ore:plankWood>, <ore:dyeLightBlue>, <ore:plankWood>]]);
 
 recipes.addShaped(<quark:stained_planks:4> * 8, 
-[[<ore:plankWood>, <ore:dyeYellow>, <ore:plankWood>], 
+[[<ore:plankWood>, <ore:plankWood>, <ore:plankWood>], 
 [<ore:plankWood>, <ore:plankWood>, <ore:plankWood>], 
-[<ore:plankWood>, <ore:plankWood>, <ore:plankWood>]]);
+[<ore:plankWood>, <ore:dyeYellow>, <ore:plankWood>]]);
 
 recipes.addShaped(<quark:stained_planks:5> * 8, 
-[[<ore:plankWood>, <ore:dyeLime>, <ore:plankWood>], 
+[[<ore:plankWood>, <ore:plankWood>, <ore:plankWood>], 
 [<ore:plankWood>, <ore:plankWood>, <ore:plankWood>], 
-[<ore:plankWood>, <ore:plankWood>, <ore:plankWood>]]);
+[<ore:plankWood>, <ore:dyeLime>, <ore:plankWood>]]);
 
 recipes.addShaped(<quark:stained_planks:6> * 8, 
-[[<ore:plankWood>, <ore:dyePink>, <ore:plankWood>], 
+[[<ore:plankWood>, <ore:plankWood>, <ore:plankWood>], 
 [<ore:plankWood>, <ore:plankWood>, <ore:plankWood>], 
-[<ore:plankWood>, <ore:plankWood>, <ore:plankWood>]]);
+[<ore:plankWood>, <ore:dyePink>, <ore:plankWood>]]);
 
 recipes.addShaped(<quark:stained_planks:7> * 8, 
-[[<ore:plankWood>, <ore:dyeGray>, <ore:plankWood>], 
+[[<ore:plankWood>, <ore:plankWood>, <ore:plankWood>], 
 [<ore:plankWood>, <ore:plankWood>, <ore:plankWood>], 
-[<ore:plankWood>, <ore:plankWood>, <ore:plankWood>]]);
+[<ore:plankWood>, <ore:dyeGray>, <ore:plankWood>]]);
 
 recipes.addShaped(<quark:stained_planks:8> * 8, 
-[[<ore:plankWood>, <ore:dyeLightGray>, <ore:plankWood>], 
+[[<ore:plankWood>, <ore:plankWood>, <ore:plankWood>], 
 [<ore:plankWood>, <ore:plankWood>, <ore:plankWood>], 
-[<ore:plankWood>, <ore:plankWood>, <ore:plankWood>]]);
+[<ore:plankWood>, <ore:dyeLightGray>, <ore:plankWood>]]);
 
 recipes.addShaped(<quark:stained_planks:9> * 8, 
-[[<ore:plankWood>, <ore:dyeCyan>, <ore:plankWood>], 
+[[<ore:plankWood>, <ore:plankWood>, <ore:plankWood>], 
 [<ore:plankWood>, <ore:plankWood>, <ore:plankWood>], 
-[<ore:plankWood>, <ore:plankWood>, <ore:plankWood>]]);
+[<ore:plankWood>, <ore:dyeCyan>, <ore:plankWood>]]);
 
 recipes.addShaped(<quark:stained_planks:10> * 8, 
-[[<ore:plankWood>, <ore:dyePurple>, <ore:plankWood>], 
+[[<ore:plankWood>, <ore:plankWood>, <ore:plankWood>], 
 [<ore:plankWood>, <ore:plankWood>, <ore:plankWood>], 
-[<ore:plankWood>, <ore:plankWood>, <ore:plankWood>]]);
+[<ore:plankWood>, <ore:dyePurple>, <ore:plankWood>]]);
 
 recipes.addShaped(<quark:stained_planks:11> * 8, 
-[[<ore:plankWood>, <ore:dyeBlue>, <ore:plankWood>], 
-[<ore:plankWood>, <minecraft:dye:5>, <ore:plankWood>], 
-[<ore:plankWood>, <ore:plankWood>, <ore:plankWood>]]);
+[[<ore:plankWood>, <ore:plankWood>, <ore:plankWood>], 
+[<ore:plankWood>, <ore:plankWood>, <ore:plankWood>], 
+[<ore:plankWood>, <ore:dyeBlue>, <ore:plankWood>]]);
 
 recipes.addShaped(<quark:stained_planks:12> * 8, 
-[[<ore:plankWood>, <ore:dyeBrown>, <ore:plankWood>], 
+[[<ore:plankWood>, <ore:plankWood>, <ore:plankWood>], 
 [<ore:plankWood>, <ore:plankWood>, <ore:plankWood>], 
-[<ore:plankWood>, <ore:plankWood>, <ore:plankWood>]]);
+[<ore:plankWood>, <ore:dyeBrown>, <ore:plankWood>]]);
 
 recipes.addShaped(<quark:stained_planks:13> * 8, 
-[[<ore:plankWood>, <ore:dyeGreen>, <ore:plankWood>], 
+[[<ore:plankWood>,<ore:plankWood>, <ore:plankWood>], 
 [<ore:plankWood>, <ore:plankWood>, <ore:plankWood>], 
-[<ore:plankWood>, <ore:plankWood>, <ore:plankWood>]]);
+[<ore:plankWood>, <ore:dyeGreen>, <ore:plankWood>]]);
 
 recipes.addShaped(<quark:stained_planks:14> * 8, 
-[[<ore:plankWood>, <ore:dyeRed>, <ore:plankWood>], 
+[[<ore:plankWood>, <ore:plankWood>, <ore:plankWood>], 
 [<ore:plankWood>, <ore:plankWood>, <ore:plankWood>], 
-[<ore:plankWood>, <ore:plankWood>, <ore:plankWood>]]);
+[<ore:plankWood>, <ore:dyeRed>, <ore:plankWood>]]);
 
 recipes.addShaped(<quark:stained_planks:15> * 8, 
-[[<ore:plankWood>, <ore:dyeBlack>, <ore:plankWood>], 
+[[<ore:plankWood>, <ore:plankWood>, <ore:plankWood>], 
 [<ore:plankWood>, <ore:plankWood>, <ore:plankWood>], 
-[<ore:plankWood>, <ore:plankWood>, <ore:plankWood>]]);
+[<ore:plankWood>, <ore:dyeBlack>, <ore:plankWood>]]);
 
-print("--- SSylTweaks.zs initialized ---");
+print("--- SSylTweaks-PaintedPlanks.zs initialized ---");
