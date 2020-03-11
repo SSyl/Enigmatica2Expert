@@ -7,8 +7,7 @@
 		"oredict": [
 			"foodButter",
 			"foodCheese",
-			"foodChocolatebar",
-			"listAllmilk"
+			"foodChocolatebar"
 		],
 		"items": [
 			"actuallyadditions:item_food:0",
