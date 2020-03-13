@@ -82,11 +82,6 @@ recipes.addShaped(<thermalfoundation:armor.plate_constantan>, [[<ore:plateConsta
 recipes.addShaped(<thermalfoundation:armor.legs_constantan>, [[<ore:plateConstantan>, <ore:plateConstantan>, <ore:plateConstantan>], [<ore:plateConstantan>, <minecraft:leather_leggings>.anyDamage(), <ore:plateConstantan>], [<ore:plateConstantan>, null, <ore:plateConstantan>]]);
 recipes.addShaped(<thermalfoundation:armor.boots_constantan>, [[<ore:plateConstantan>, null, <ore:plateConstantan>], [<ore:plateConstantan>, <minecraft:leather_boots>.anyDamage(), <ore:plateConstantan>]]);
 
-recipes.addShaped(<thermalfoundation:armor.helmet_silver>, [[<ore:plateSilver>, <ore:plateSilver>, <ore:plateSilver>], [<ore:plateSilver>, <minecraft:leather_helmet>.anyDamage(), <ore:plateSilver>]]);
-recipes.addShaped(<thermalfoundation:armor.plate_silver>, [[<ore:plateSilver>, <minecraft:leather_chestplate>.anyDamage(), <ore:plateSilver>], [<ore:plateSilver>, <ore:plateSilver>, <ore:plateSilver>], [<ore:plateSilver>, <ore:plateSilver>, <ore:plateSilver>]]);
-recipes.addShaped(<thermalfoundation:armor.legs_silver>, [[<ore:plateSilver>, <ore:plateSilver>, <ore:plateSilver>], [<ore:plateSilver>, <minecraft:leather_leggings>.anyDamage(), <ore:plateSilver>], [<ore:plateSilver>, null, <ore:plateSilver>]]);
-recipes.addShaped(<thermalfoundation:armor.boots_silver>, [[<ore:plateSilver>, null, <ore:plateSilver>], [<ore:plateSilver>, <minecraft:leather_boots>.anyDamage(), <ore:plateSilver>]]);
-
 recipes.addShaped(<thermalfoundation:armor.helmet_lead>, [[<ore:plateLead>, <ore:plateLead>, <ore:plateLead>], [<ore:plateLead>, <minecraft:leather_helmet>.anyDamage(), <ore:plateLead>]]);
 recipes.addShaped(<thermalfoundation:armor.plate_lead>, [[<ore:plateLead>, <minecraft:leather_chestplate>.anyDamage(), <ore:plateLead>], [<ore:plateLead>, <ore:plateLead>, <ore:plateLead>], [<ore:plateLead>, <ore:plateLead>, <ore:plateLead>]]);
 recipes.addShaped(<thermalfoundation:armor.legs_lead>, [[<ore:plateLead>, <ore:plateLead>, <ore:plateLead>], [<ore:plateLead>, <minecraft:leather_leggings>.anyDamage(), <ore:plateLead>], [<ore:plateLead>, null, <ore:plateLead>]]);
@@ -117,11 +112,6 @@ recipes.addShaped(<minecraft:iron_chestplate>, [[<ore:plateIron>, <thermalfounda
 recipes.addShaped(<minecraft:iron_leggings>, [[<ore:plateIron>, <ore:plateIron>, <ore:plateIron>], [<ore:plateIron>, <thermalfoundation:armor.legs_constantan>.anyDamage(), <ore:plateIron>], [<ore:plateIron>, null, <ore:plateIron>]]);
 recipes.addShaped(<minecraft:iron_boots>, [[<ore:plateIron>, null, <ore:plateIron>], [<ore:plateIron>, <thermalfoundation:armor.boots_constantan>.anyDamage(), <ore:plateIron>]]);
 
-recipes.addShaped(<minecraft:iron_helmet>, [[<ore:plateIron>, <ore:plateIron>, <ore:plateIron>], [<ore:plateIron>, <thermalfoundation:armor.helmet_electrum>.anyDamage(), <ore:plateIron>]]);
-recipes.addShaped(<minecraft:iron_chestplate>, [[<ore:plateIron>, <thermalfoundation:armor.plate_electrum>.anyDamage(), <ore:plateIron>], [<ore:plateIron>, <ore:plateIron>, <ore:plateIron>], [<ore:plateIron>, <ore:plateIron>, <ore:plateIron>]]);
-recipes.addShaped(<minecraft:iron_leggings>, [[<ore:plateIron>, <ore:plateIron>, <ore:plateIron>], [<ore:plateIron>, <thermalfoundation:armor.legs_electrum>.anyDamage(), <ore:plateIron>], [<ore:plateIron>, null, <ore:plateIron>]]);
-recipes.addShaped(<minecraft:iron_boots>, [[<ore:plateIron>, null, <ore:plateIron>], [<ore:plateIron>, <thermalfoundation:armor.boots_electrum>.anyDamage(), <ore:plateIron>]]);
-
 recipes.addShaped(<minecraft:iron_helmet>, [[<ore:plateIron>, <ore:plateIron>, <ore:plateIron>], [<ore:plateIron>, <thermalfoundation:armor.helmet_lead>.anyDamage(), <ore:plateIron>]]);
 recipes.addShaped(<minecraft:iron_chestplate>, [[<ore:plateIron>, <thermalfoundation:armor.plate_lead>.anyDamage(), <ore:plateIron>], [<ore:plateIron>, <ore:plateIron>, <ore:plateIron>], [<ore:plateIron>, <ore:plateIron>, <ore:plateIron>]]);
 recipes.addShaped(<minecraft:iron_leggings>, [[<ore:plateIron>, <ore:plateIron>, <ore:plateIron>], [<ore:plateIron>, <thermalfoundation:armor.legs_lead>.anyDamage(), <ore:plateIron>], [<ore:plateIron>, null, <ore:plateIron>]]);
@@ -132,12 +122,17 @@ recipes.addShaped(<minecraft:iron_chestplate>, [[<ore:plateIron>, <thermalfounda
 recipes.addShaped(<minecraft:iron_leggings>, [[<ore:plateIron>, <ore:plateIron>, <ore:plateIron>], [<ore:plateIron>, <thermalfoundation:armor.legs_nickel>.anyDamage(), <ore:plateIron>], [<ore:plateIron>, null, <ore:plateIron>]]);
 recipes.addShaped(<minecraft:iron_boots>, [[<ore:plateIron>, null, <ore:plateIron>], [<ore:plateIron>, <thermalfoundation:armor.boots_nickel>.anyDamage(), <ore:plateIron>]]);
 
-# Iron Equivalent
+# Silver (Roughly Iron Equivalent, but really a slightly worse gold)
 
 recipes.addShaped(<thermalfoundation:armor.helmet_silver>, [[<ore:plateSilver>, <ore:plateSilver>, <ore:plateSilver>], [<ore:plateSilver>, <minecraft:leather_helmet>.anyDamage(), <ore:plateSilver>]]);
 recipes.addShaped(<thermalfoundation:armor.plate_silver>, [[<ore:plateSilver>, <minecraft:leather_chestplate>.anyDamage(), <ore:plateSilver>], [<ore:plateSilver>, <ore:plateSilver>, <ore:plateSilver>], [<ore:plateSilver>, <ore:plateSilver>, <ore:plateSilver>]]);
 recipes.addShaped(<thermalfoundation:armor.legs_silver>, [[<ore:plateSilver>, <ore:plateSilver>, <ore:plateSilver>], [<ore:plateSilver>, <minecraft:leather_leggings>.anyDamage(), <ore:plateSilver>], [<ore:plateSilver>, null, <ore:plateSilver>]]);
 recipes.addShaped(<thermalfoundation:armor.boots_silver>, [[<ore:plateSilver>, null, <ore:plateSilver>], [<ore:plateSilver>, <minecraft:leather_boots>.anyDamage(), <ore:plateSilver>]]);
+
+recipes.addShaped(<minecraft:iron_helmet>, [[<ore:plateIron>, <ore:plateIron>, <ore:plateIron>], [<ore:plateIron>, <thermalfoundation:armor.helmet_silver>.anyDamage(), <ore:plateIron>]]);
+recipes.addShaped(<minecraft:iron_chestplate>, [[<ore:plateIron>, <thermalfoundation:armor.plate_silver>.anyDamage(), <ore:plateIron>], [<ore:plateIron>, <ore:plateIron>, <ore:plateIron>], [<ore:plateIron>, <ore:plateIron>, <ore:plateIron>]]);
+recipes.addShaped(<minecraft:iron_leggings>, [[<ore:plateIron>, <ore:plateIron>, <ore:plateIron>], [<ore:plateIron>, <thermalfoundation:armor.legs_silver>.anyDamage(), <ore:plateIron>], [<ore:plateIron>, null, <ore:plateIron>]]);
+recipes.addShaped(<minecraft:iron_boots>, [[<ore:plateIron>, null, <ore:plateIron>], [<ore:plateIron>, <thermalfoundation:armor.boots_silver>.anyDamage(), <ore:plateIron>]]);
 
 recipes.addShaped(<minecraft:golden_helmet>, [[<ore:plateGold>, <ore:plateGold>, <ore:plateGold>], [<ore:plateGold>, <thermalfoundation:armor.helmet_silver>.anyDamage(), <ore:plateGold>]]);
 recipes.addShaped(<minecraft:golden_chestplate>, [[<ore:plateGold>, <thermalfoundation:armor.plate_silver>.anyDamage(), <ore:plateGold>], [<ore:plateGold>, <ore:plateGold>, <ore:plateGold>], [<ore:plateGold>, <ore:plateGold>, <ore:plateGold>]]);
@@ -176,10 +171,17 @@ recipes.addShaped(<minecraft:golden_chestplate>, [[<ore:plateSteel>, <thermalfou
 recipes.addShaped(<minecraft:golden_leggings>, [[<ore:plateSteel>, <ore:plateSteel>, <ore:plateSteel>], [<ore:plateSteel>, <thermalfoundation:armor.legs_steel>.anyDamage(), <ore:plateSteel>], [<ore:plateSteel>, null, <ore:plateSteel>]]);
 recipes.addShaped(<minecraft:golden_boots>, [[<ore:plateSteel>, null, <ore:plateSteel>], [<ore:plateSteel>, <thermalfoundation:armor.boots_steel>.anyDamage(), <ore:plateSteel>]]);
 
-# Post Gold / Pre-Diamond
+# Gold Equivalent / Pre-Diamond
+
+recipes.addShaped(<thermalfoundation:armor.helmet_electrum>, [[<ore:plateElectrum>, <ore:plateElectrum>, <ore:plateElectrum>], [<ore:plateElectrum>, <minecraft:iron_helmet>.anyDamage(), <ore:plateElectrum>]]);
+recipes.addShaped(<thermalfoundation:armor.plate_electrum>, [[<ore:plateElectrum>, <minecraft:iron_chestplate>.anyDamage(), <ore:plateElectrum>], [<ore:plateElectrum>, <ore:plateElectrum>, <ore:plateElectrum>], [<ore:plateElectrum>, <ore:plateElectrum>, <ore:plateElectrum>]]);
+recipes.addShaped(<thermalfoundation:armor.legs_electrum>, [[<ore:plateElectrum>, <ore:plateElectrum>, <ore:plateElectrum>], [<ore:plateElectrum>, <minecraft:iron_leggings>.anyDamage(), <ore:plateElectrum>], [<ore:plateElectrum>, null, <ore:plateElectrum>]]);
+recipes.addShaped(<thermalfoundation:armor.boots_electrum>, [[<ore:plateElectrum>, null, <ore:plateElectrum>], [<ore:plateElectrum>, <minecraft:iron_boots>.anyDamage(), <ore:plateElectrum>]]);
+
+// In case you want to upgrade to electrum from Gold
 
 recipes.addShaped(<thermalfoundation:armor.helmet_electrum>, [[<ore:plateElectrum>, <ore:plateElectrum>, <ore:plateElectrum>], [<ore:plateElectrum>, <minecraft:golden_helmet>.anyDamage(), <ore:plateElectrum>]]);
-recipes.addShaped(<thermalfoundation:armor.plate_electrum>, [[<ore:plateElectrum>, <minecraft:golden_chestplate>, <ore:plateElectrum>], [<ore:plateElectrum>, <ore:plateElectrum>, <ore:plateElectrum>], [<ore:plateElectrum>, <ore:plateElectrum>, <ore:plateElectrum>]]);
+recipes.addShaped(<thermalfoundation:armor.plate_electrum>, [[<ore:plateElectrum>, <minecraft:golden_chestplate>.anyDamage(), <ore:plateElectrum>], [<ore:plateElectrum>, <ore:plateElectrum>, <ore:plateElectrum>], [<ore:plateElectrum>, <ore:plateElectrum>, <ore:plateElectrum>]]);
 recipes.addShaped(<thermalfoundation:armor.legs_electrum>, [[<ore:plateElectrum>, <ore:plateElectrum>, <ore:plateElectrum>], [<ore:plateElectrum>, <minecraft:golden_leggings>.anyDamage(), <ore:plateElectrum>], [<ore:plateElectrum>, null, <ore:plateElectrum>]]);
 recipes.addShaped(<thermalfoundation:armor.boots_electrum>, [[<ore:plateElectrum>, null, <ore:plateElectrum>], [<ore:plateElectrum>, <minecraft:golden_boots>.anyDamage(), <ore:plateElectrum>]]);
 
