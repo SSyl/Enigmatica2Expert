@@ -39,18 +39,8 @@ key_Hub Expand Key:0:NONE
 key_Change Caster Focus:34:NONE
 key_Misc Caster Toggle:0:NONE
 key_keybind.baublesinventory:0:NONE
-key_quark.emote.no:0:NONE
-key_quark.emote.yes:0:NONE
-key_quark.emote.wave:0:NONE
-key_quark.emote.salute:0:NONE
-key_quark.emote.cheer:0:NONE
-key_quark.emote.clap:0:NONE
-key_quark.emote.think:0:NONE
-key_quark.emote.point:0:NONE
-key_quark.emote.shrug:0:NONE
-key_quark.emote.headbang:0:NONE
-key_quark.emote.weep:0:NONE
-key_quark.emote.facepalm:0:NONE
+key_quark.keybind.chestSort:-98
+key_quark.keybind.playerSort:-98
 key_quark.keybind.toggleAutojump:0:NONE
 key_quark.keybind.lockBuilding:0:NONE
 key_bloodmagic.keybind.open_holding:0:NONE
