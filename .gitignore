@@ -33,7 +33,6 @@ modpack_upload_settings.cfg
 ModpackUploadTool.bat
 
 # Client Configs
-config/InvTweaks.cfg
 config/MouseTweaks.cfg
 config/jei/worldSettings.cfg
 config/jei/lookupHistory.zip
