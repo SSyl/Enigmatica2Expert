@@ -7,45 +7,53 @@
             "posX" : -130,
             "posY" : 15,
             "width" : 400,
-            "height" : 75,
+            "height" : 64,
             "alignment" : "top_center"
         },
-		"expert":
+        "expert":
         {
             "image" : "modpack:textures/gui/expert.png",
             "posX" : -15,
-            "posY" : 90,
+            "posY" : 80,
             "width" : 200,
-            "height" : 40,
+            "height" : 51,
             "alignment" : "top_center"
         },
-		"2":
+        "2":
         {
             "image" : "modpack:textures/gui/2.png",
             "posX" : 265,
-            "posY" : 35,
-            "width" : 50,
+            "posY" : 28,
+            "width" : 36,
             "height" : 50,
             "alignment" : "top_center"
         },
-		
-		"transparentBox":
+        "ssylTweaks":
+        {
+            "image" : "modpack:textures/gui/ssyltweaks.png",
+            "posX" : -65,
+            "posY" : 130,
+            "width" : 300,
+            "height" : 39,
+            "alignment" : "top_center"
+        },
+        "transparentBox":
         {
             "image" : "modpack:textures/gui/image1.png",
             "posX" : 25,
-            "posY" : -140,
+            "posY" : -120,
             "width" : 140,
-            "height" : 280,
+            "height" : 190,
             "alignment" : "left_center"
         }
     },
     
     "buttons":
     {
-		"singleplayer": {
+        "singleplayer": {
             "text": "menu.singleplayer",
             "posX": 44,
-            "posY": -130,
+            "posY": -110,
             "width": 100,
             "height": 20,
             "normalTextColor": 16777215,
@@ -60,7 +68,7 @@
         "multiplayer": {
             "text": "menu.multiplayer",
             "posX": 44,
-            "posY": -100,
+            "posY": -80,
             "width": 100,
             "height": 20,
             "normalTextColor": 16777215,
@@ -72,26 +80,10 @@
                 "gui": "multiplayer"
             }
         },
-        "servers": {
-            "text": "Servers",
-			"hoverText": "BisectHosting",
-            "posX": 44,
-            "posY": -70,
-            "width": 100,
-            "height": 20,
-            "normalTextColor": 16777215,
-            "hoverTextColor": 16777215,
-            "texture": "modpack:textures/gui/button2.png",
-            "alignment": "left_center",
-            "action": {
-                "type": "openLink",
-                "link": "https://www.bisecthosting.com/niller"
-            }
-        },
         "mods": {
             "text": "fml.menu.mods",
             "posX": 44,
-            "posY": -40,
+            "posY": -50,
             "width": 100,
             "height": 20,
             "normalTextColor": 16777215,
@@ -106,7 +98,7 @@
         "options": {
             "text": "menu.options",
             "posX": 44,
-            "posY": -10,
+            "posY": -20,
             "width": 100,
             "height": 20,
             "normalTextColor": 16777215,
@@ -122,7 +114,7 @@
         "languages": {
             "text": "Languages",
             "posX": 44,
-            "posY": 20,
+            "posY": 10,
             "width": 100,
             "height": 20,
             "normalTextColor": 16777215,
@@ -134,41 +126,10 @@
                 "gui": "languages"
             }
         },
-        "bug reports": {
-            "text": "Bug Reports",
-            "posX": 44,
-            "posY": 50,
-            "width": 100,
-            "height": 20,
-            "normalTextColor": 16777215,
-            "hoverTextColor": 4286414205,
-            "texture": "modpack:textures/gui/button2.png",
-            "alignment": "left_center",
-            "action": {
-                "type": "openLink",
-                "link": "https://github.com/NillerMedDild/Enigmatica2Expert/issues"
-            }
-        },
-		"discord": {
-            "text": "Discord",
-            "posX": 44,
-            "posY": 80,
-            "width": 100,
-            "height": 20,
-            "normalTextColor": 16777215,
-            "hoverTextColor": 4286414205,
-            "texture": "modpack:textures/gui/button2.png",
-            "alignment": "left_center",
-            "action" : 
-            {
-                "type" : "openLink",
-                "link" : "https://discord.gg/HnWNd7X"
-            }
-        },
         "quit": {
             "text": "menu.quit",
             "posX": 44,
-            "posY": 110,
+            "posY": 40,
             "width": 100,
             "height": 20,
             "normalTextColor": 16777215,
@@ -178,8 +139,8 @@
             "action": {
                 "type": "quit"
             }
-        }		
-	},
+        }       
+    },
     
     "labels":
     {
@@ -191,34 +152,34 @@
             "color" : -1,
             "alignment" : "bottom_left"
         }
-	},
+    },
     
     "other" : { 
-	
-		"background" : 
+    
+        "background" : 
         {
             "image" : "",
             "slideshow" :
             {
                 "images" : 
-				[
-				"modpack:textures/gui/slideshow1.png","modpack:textures/gui/slideshow2.png",
-				"modpack:textures/gui/slideshow3.png","modpack:textures/gui/slideshow4.png",
-				"modpack:textures/gui/slideshow5.png","modpack:textures/gui/slideshow6.png",
-				"modpack:textures/gui/slideshow7.png","modpack:textures/gui/slideshow8.png",
-				"modpack:textures/gui/slideshow9.png","modpack:textures/gui/slideshow10.png",
-				"modpack:textures/gui/slideshow11.png","modpack:textures/gui/slideshow12.png",
-				"modpack:textures/gui/slideshow13.png","modpack:textures/gui/slideshow14.png",
-				"modpack:textures/gui/slideshow15.png","modpack:textures/gui/slideshow16.png",
-				"modpack:textures/gui/slideshow17.png","modpack:textures/gui/slideshow18.png",
-				"modpack:textures/gui/slideshow19.png","modpack:textures/gui/slideshow20.png",
-				"modpack:textures/gui/slideshow21.png"
-				],
+                [
+                "modpack:textures/gui/slideshow1.png","modpack:textures/gui/slideshow2.png",
+                "modpack:textures/gui/slideshow3.png","modpack:textures/gui/slideshow4.png",
+                "modpack:textures/gui/slideshow5.png","modpack:textures/gui/slideshow6.png",
+                "modpack:textures/gui/slideshow7.png","modpack:textures/gui/slideshow8.png",
+                "modpack:textures/gui/slideshow9.png","modpack:textures/gui/slideshow10.png",
+                "modpack:textures/gui/slideshow11.png","modpack:textures/gui/slideshow12.png",
+                "modpack:textures/gui/slideshow13.png","modpack:textures/gui/slideshow14.png",
+                "modpack:textures/gui/slideshow15.png","modpack:textures/gui/slideshow16.png",
+                "modpack:textures/gui/slideshow17.png","modpack:textures/gui/slideshow18.png",
+                "modpack:textures/gui/slideshow19.png","modpack:textures/gui/slideshow20.png",
+                "modpack:textures/gui/slideshow21.png"
+                ],
                 "displayDuration" : 100,
                 "fadeDuration" : 30,
-				"shuffle" : true
+                "shuffle" : true
             }
-		}
-		
-	}
+        }
+        
+    }
 }
