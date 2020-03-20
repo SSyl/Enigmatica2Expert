@@ -103,8 +103,8 @@ Examples:
  -->
 <SpawnConfig>
 
-  <entry id="ConcussionCreeper" mobName="enderiozoo:concussioncreeper" creatureType="MONSTER" rate="40"
-    minGroupSize="1" maxGroupSize="3" remove="false">
+  <entry id="ConcussionCreeper" mobName="enderiozoo:concussioncreeper" creatureType="MONSTER" rate="0"
+    minGroupSize="0" maxGroupSize="0" remove="true">
     <biomeFilter type="any">
       <biome type="BASE_LAND_TYPES" />
       <biome type="NETHER" exclude="true" />
@@ -115,7 +115,7 @@ Examples:
     <dimensionExclude name="Dungeon"/>
   </entry>
 
-  <entry id="EnderMiny" mobName="enderiozoo:enderminy" rate="30">
+  <entry id="EnderMiny" mobName="enderiozoo:enderminy" rate="0" remove="true">
     <biomeFilter type="any">
       <biome type="FOREST" />
       <biome type="SWAMP" />
@@ -126,7 +126,7 @@ Examples:
     <dimensionExclude name="twilight_forest"/><!-- sic! TF uses its id for human readable name, too -->
   </entry>
 
-  <entry id="FallenKnight" mobName="enderiozoo:fallenknight" rate="30" minGroupSize="1" maxGroupSize="4">
+  <entry id="FallenKnight" mobName="enderiozoo:fallenknight" rate="0" minGroupSize="0" maxGroupSize="0" remove="true">
     <biomeFilter type="any">
       <biome type="PLAINS" />
       <biome type="NETHER" exclude="true" />
@@ -135,7 +135,7 @@ Examples:
     <dimensionExclude name="twilight_forest"/><!-- sic! TF uses its id for human readable name, too -->
   </entry>
 
-  <entry id="WitherWitch" mobName="enderiozoo:witherwitch" rate="5" minGroupSize="1" maxGroupSize="1">
+  <entry id="WitherWitch" mobName="enderiozoo:witherwitch" rate="0" minGroupSize="0" maxGroupSize="0" remove="true">
     <biomeFilter type="any">
       <biome type="FOREST" />
       <biome type="SWAMP" />
@@ -148,7 +148,7 @@ Examples:
     <dimensionExclude name="twilight_forest"/><!-- sic! TF uses its id for human readable name, too -->
   </entry>
 
-  <entry id="DireWolf" mobName="enderiozoo:direwolf" rate="30" minGroupSize="2" maxGroupSize="6">
+  <entry id="DireWolf" mobName="enderiozoo:direwolf" rate="10" minGroupSize="2" maxGroupSize="6" remove="false">
     <biomeFilter type="all">
       <biome type="SNOWY" />
       <biome type="CONIFEROUS" />
@@ -157,7 +157,7 @@ Examples:
     </biomeFilter>
   </entry>
 
-   <entry id="Owl" mobName="enderiozoo:owl" rate="5" minGroupSize="1" maxGroupSize="1" creatureType="CREATURE">
+   <entry id="Owl" mobName="enderiozoo:owl" rate="5" minGroupSize="1" maxGroupSize="1" creatureType="CREATURE" remove="false">
     <biomeFilter type="any">
       <biome type="FOREST" />
       <biome type="RIVER" />
@@ -169,7 +169,7 @@ Examples:
     </biomeFilter>
   </entry>
 
-  <entry id="LoveChild" mobName="enderiozoo:lovechild" creatureType="MONSTER" rate="10" minGroupSize="1" maxGroupSize="1" remove="false">
+  <entry id="LoveChild" mobName="enderiozoo:lovechild" creatureType="MONSTER" rate="0" minGroupSize="0" maxGroupSize="0" remove="true">
     <biomeFilter type="any">
       <biome type="BASE_LAND_TYPES" />
       <biome type="NETHER" exclude="true" />
