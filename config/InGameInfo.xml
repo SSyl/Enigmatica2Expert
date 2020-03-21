@@ -2,29 +2,18 @@
 <config>
     <lines at="topleft">
         <line>
-            <str>Day {day}, {mctime12} (</str>
+            <str>Day {day}, {mctime12} </str>
             <if>
                 <var>daytime</var>
-                <str>$eDay$f) </str>
-                <str>$8Night$f) </str>
+                <str>($eDay$f) </str>
+                <str>($8Night$f) </str>
             </if>
             <if>
                 <var>thundering</var>
-                <str>$4Thunder$f</str>
-                <str> </str>
-            </if>
-        </line>
-        <line>
-            <str>{biome}</str>
-            <if>
-                <var>slimes</var>
-                <str> ($aSlime$f)</str>
-                <str>, </str>
+                <str>$4Thunder$f </str>
+                <str></str>
             </if>
             <str>{abrfinedirection}</str>
-        </line>
-        <line>
-            <str>Depth: {yi}</str>
         </line>
     </lines>
     <lines at="bottomright">
