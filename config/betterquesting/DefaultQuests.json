@@ -572,7 +572,7 @@
           "ismain:1": 0,
           "repeat_relative:1": 1,
           "name:8": "Gate: Pipes",
-          "desc:8": "There is no Pipe chapter, but completing this quest grants access to §3XNet§0, which in turn grants access to §4§6§8§9§a§b§e§d§f§d§a§9§8§9Thermal Dynamics."
+          "desc:8": "There is no Pipe chapter, but completing this quest grants access to §3XNet§r, which in turn grants access to §4§6§8§9§a§b§e§d§f§d§a§9§8§9Thermal Dynamics."
         }
       },
       "tasks:9": {
@@ -811,7 +811,7 @@
           "ismain:1": 0,
           "repeat_relative:1": 1,
           "name:8": "Gate: Ex Nihilo",
-          "desc:8": "There is no Ex Nihilo chapter, but completing this quest grants access to the mod.\n\n§4Mana Infused Ingots§0 are craftable."
+          "desc:8": "There is no Ex Nihilo chapter, but completing this quest grants access to the mod.\n\n§4Mana Infused Ingots§r are craftable."
         }
       },
       "tasks:9": {
@@ -1389,7 +1389,7 @@
           "ismain:1": 0,
           "repeat_relative:1": 1,
           "name:8": "Clay Bucket",
-          "desc:8": "Since you don\u0027t have access to Iron yet, you\u0027ll have to make a §3§4Clay Bucket§0 to get lava."
+          "desc:8": "Since you don\u0027t have access to Iron yet, you\u0027ll have to make a §3§4Clay Bucket§r to get lava."
         }
       },
       "tasks:9": {
@@ -1461,7 +1461,7 @@
           "ismain:1": 0,
           "repeat_relative:1": 1,
           "name:8": "Smeltery",
-          "desc:8": "To reach the next level, you will need to make a §4smeltery§0§4.§0 Making the Tinkers\u0027 Complement early game smeltery will also complete the quest.\n\nThe items required to complete this quest match the blocks in the smallest possible smeltery, with Casting Table and Faucet.\n\nRemember temporary casts can be made from §8liquid clay."
+          "desc:8": "To reach the next level, you will need to make a §4smeltery§r§4.§r Making the Tinkers\u0027 Complement early game smeltery will also complete the quest.\n\nThe items required to complete this quest match the blocks in the smallest possible smeltery, with Casting Table and Faucet.\n\nRemember temporary casts can be made from §8liquid clay."
         }
       },
       "tasks:9": {
@@ -2922,7 +2922,7 @@
           "ismain:1": 1,
           "repeat_relative:1": 1,
           "name:8": "Welcome",
-          "desc:8": "Welcome to Enigmatica 2: Expert! This modpack is designed to challenge the player through various means, especially harder recipes. I advice that you automate crafting of as much as possible, as early as possible. Things are going to get complicated. \n\nCheck the checkbox to get your starterkit.§d§d§0 \n\nI suggest you make a Backpack out of the Tanned Leather \u0026 Wooden Frame.\n\nGood luck!§0"
+          "desc:8": "Welcome to Enigmatica 2: Expert! This modpack is designed to challenge the player through various means, especially harder recipes. I advice that you automate crafting of as much as possible, as early as possible. Things are going to get complicated. \n\nCheck the checkbox to get your starterkit.§d§d§r \n\nI suggest you make a Backpack out of the Tanned Leather \u0026 Wooden Frame.\n\nGood luck!§r"
         }
       },
       "tasks:9": {
@@ -3870,7 +3870,7 @@
           "ismain:1": 0,
           "repeat_relative:1": 1,
           "name:8": "Harvest level 2",
-          "desc:8": "§3Certus Quartz§0 tool parts are made in the Part Builder."
+          "desc:8": "§3Certus Quartz§r tool parts are made in the Part Builder."
         }
       },
       "tasks:9": {
@@ -5050,7 +5050,7 @@
           "ismain:1": 0,
           "repeat_relative:1": 1,
           "name:8": "Scanning",
-          "desc:8": "There\u0027s a slight chance per chunk, that a super orevein generates. \nThere are 6 different kinds of superveins, which can be found at varying Y levels.§3§4 \n\nNuclearcraft§0 ores only spawn in superveins.\n\nThe pack has a few different items that can help you find ores - The §1§4§l§l§4§4§0scanner being one of them."
+          "desc:8": "There\u0027s a slight chance per chunk, that a super orevein generates. \nThere are 6 different kinds of superveins, which can be found at varying Y levels.§3§4 \n\nNuclearcraft§r ores only spawn in superveins.\n\nThe pack has a few different items that can help you find ores - The §1§4§l§l§4§4§rscanner being one of them."
         }
       },
       "tasks:9": {
@@ -5121,7 +5121,7 @@
           "ismain:1": 0,
           "repeat_relative:1": 1,
           "name:8": "Rare Ores",
-          "desc:8": "Some ores are so rare, that they don\u0027t even generate on Earth, The Nether or The End.\n\nExplore the galaxy to find them.\n\nAmong those are §bIridium, §cRutile, §a§2All Clathrates§0§2, §1Starmetal, §5Draconium §0and §6§7§D§e§f§7Dilithium."
+          "desc:8": "Some ores are so rare, that they don\u0027t even generate on Earth, The Nether or The End.\n\nExplore the galaxy to find them.\n\nAmong those are §bIridium, §cRutile, §a§2All Clathrates§r§2, §1Starmetal, §5Draconium §rand §6§7§D§e§f§7Dilithium."
         }
       },
       "tasks:9": {
@@ -5529,7 +5529,7 @@
           "ismain:1": 1,
           "repeat_relative:1": 1,
           "name:8": "Advanced Machine Casing",
-          "desc:8": "This is a crafting ingredient needed to craft higher tier Industrialcraft machines, aswell as being the main ingredient in the§4 Industrial Foregoing§0 Machine Case."
+          "desc:8": "This is a crafting ingredient needed to craft higher tier Industrialcraft machines, aswell as being the main ingredient in the§4 Industrial Foregoing§r Machine Case."
         }
       },
       "tasks:9": {
@@ -7376,7 +7376,7 @@
           "ismain:1": 0,
           "repeat_relative:1": 1,
           "name:8": "Scanner",
-          "desc:8": "Place items in the Scanner to see how much UU Matter it costs to replicate them. \n\n§4§lThis will destroy the item. §0\n\nThere are quite a few additional items that can be replicated, in addition to the normal ones."
+          "desc:8": "Place items in the Scanner to see how much UU Matter it costs to replicate them. \n\n§4§lThis will destroy the item. §r\n\nThere are quite a few additional items that can be replicated, in addition to the normal ones."
         }
       },
       "tasks:9": {
@@ -7652,7 +7652,7 @@
           "ismain:1": 0,
           "repeat_relative:1": 1,
           "name:8": "Immersive Engineering",
-          "desc:8": "Welcome to Immersive Engineering! This mod primarily offers large multi-block machines and cool aesthetical things. This is a tier 1 tech mod.\n\n§4The speed and energy requirements of the machines have been heavily modified.§0\n\nThis chapter leads to Mekanism."
+          "desc:8": "Welcome to Immersive Engineering! This mod primarily offers large multi-block machines and cool aesthetical things. This is a tier 1 tech mod.\n\n§4The speed and energy requirements of the machines have been heavily modified.§r\n\nThis chapter leads to Mekanism."
         }
       },
       "tasks:9": {
@@ -9161,7 +9161,7 @@
           "ismain:1": 0,
           "repeat_relative:1": 1,
           "name:8": "Actually Additions",
-          "desc:8": "Welcome to Actually Additions! This is a tier 2 tech mod.\nActually Additions offers a wide variety of blocks and gadgets.\n\nYou will need to get your hands on §f§7Enori Crystals§0, as they are part of the progression towards Thermal Expansion."
+          "desc:8": "Welcome to Actually Additions! This is a tier 2 tech mod.\nActually Additions offers a wide variety of blocks and gadgets.\n\nYou will need to get your hands on §f§7Enori Crystals§r, as they are part of the progression towards Thermal Expansion."
         }
       },
       "tasks:9": {
@@ -9572,7 +9572,7 @@
           "ismain:1": 0,
           "repeat_relative:1": 1,
           "name:8": "Worms",
-          "desc:8": "Worms are acquired by tilling grass. They fertilize and till the grass/dirt around them, in a 3x3 centered on themselves.\n\nThey §4§4§0§4§0die after §410.000 ticks§0, in this pack."
+          "desc:8": "Worms are acquired by tilling grass. They fertilize and till the grass/dirt around them, in a 3x3 centered on themselves.\n\nThey §4§4§r§4§rdie after §410.000 ticks§r, in this pack."
         }
       },
       "tasks:9": {
@@ -9913,7 +9913,7 @@
           "ismain:1": 0,
           "repeat_relative:1": 1,
           "name:8": "Industrial Foregoing",
-          "desc:8": "Welcome to Industrial Foregoing. This is a Tier 2 Tech mod, which leads to RFTools and in turn, Thermal Expansion.\n\nIndustrial Foregoing offers tons of different machines, that can automate a variety of tasks.\n\nYou will need §c§4§5§8§dPink Slime§0 and §7Dry Rubber§0 and any Upgrade item from the mod, to craft the Machine Casing from RFTools."
+          "desc:8": "Welcome to Industrial Foregoing. This is a Tier 2 Tech mod, which leads to RFTools and in turn, Thermal Expansion.\n\nIndustrial Foregoing offers tons of different machines, that can automate a variety of tasks.\n\nYou will need §c§4§5§8§dPink Slime§r and §7Dry Rubber§r and any Upgrade item from the mod, to craft the Machine Casing from RFTools."
         }
       },
       "tasks:9": {
@@ -13928,7 +13928,7 @@
           "ismain:1": 0,
           "repeat_relative:1": 1,
           "name:8": "The Quantum Entangloporter",
-          "desc:8": "The Quantum Entangloporter can transport items, fluids, gases and energy wirelessly.\nIt\u0027s Mekanism\u0027s version of the old Thermal Expansion §2Tesseract§0§r.\n\nIt can send up to 25.600.000 RF/t."
+          "desc:8": "The Quantum Entangloporter can transport items, fluids, gases and energy wirelessly.\nIt\u0027s Mekanism\u0027s version of the old Thermal Expansion §2Tesseract§r§r.\n\nIt can send up to 25.600.000 RF/t."
         }
       },
       "tasks:9": {
@@ -15257,7 +15257,7 @@
           "ismain:1": 0,
           "repeat_relative:1": 1,
           "name:8": "Thermal Evaporation Plant",
-          "desc:8": "The Thermal Evaporation Plant is a multiblock capable of turning Water into Brine, and Brine into Lithium.\n\nSee http://wiki.aidancbrady.com/wiki/Thermal_Evaporation_Plant§0 for a setup guide."
+          "desc:8": "The Thermal Evaporation Plant is a multiblock capable of turning Water into Brine, and Brine into Lithium.\n\nSee http://wiki.aidancbrady.com/wiki/Thermal_Evaporation_Plant§r for a setup guide."
         }
       },
       "tasks:9": {
@@ -21016,7 +21016,7 @@
           "ismain:1": 0,
           "repeat_relative:1": 1,
           "name:8": "Rainmaker",
-          "desc:8": "The Rainmaker can make or stop rain. \n\nIn order for it to make rain, supply it with a §4Iodine Capsule§0.\n\nIf you want it to stop the rain, give it a §4Dissipation Charge§0."
+          "desc:8": "The Rainmaker can make or stop rain. \n\nIn order for it to make rain, supply it with a §4Iodine Capsule§r.\n\nIf you want it to stop the rain, give it a §4Dissipation Charge§r."
         }
       },
       "tasks:9": {
@@ -21220,7 +21220,7 @@
           "ismain:1": 0,
           "repeat_relative:1": 1,
           "name:8": "Centrifuge",
-          "desc:8": "The Centrifuge can be used to extract resources from §4Bee Combs§0, and a few soft blocks."
+          "desc:8": "The Centrifuge can be used to extract resources from §4Bee Combs§r, and a few soft blocks."
         }
       },
       "tasks:9": {
@@ -21291,7 +21291,7 @@
           "ismain:1": 0,
           "repeat_relative:1": 1,
           "name:8": "Farms",
-          "desc:8": "Forestry Multiblock Farms can farm all kinds of things, and are both fast and efficient.\n\nSee §1https://ftb.gamepedia.com/Multifarm §0for additional details."
+          "desc:8": "Forestry Multiblock Farms can farm all kinds of things, and are both fast and efficient.\n\nSee §1https://ftb.gamepedia.com/Multifarm §rfor additional details."
         }
       },
       "tasks:9": {
@@ -21795,7 +21795,7 @@
           "ismain:1": 0,
           "repeat_relative:1": 1,
           "name:8": "Circuit Boards",
-          "desc:8": "Circuit Boards can be used to set the type of §4Farms§0, or §4upgrade machines§0.\n\nIn order to use a Circuit Board, right-click with a §4Soldering Iron§0, and put the Circuit Board in there. Depending on the Circuit Board, you\u0027ll have 1 to 4 possible slots for §4Tubes§0.\nThe Tubes you place in the Circuit Board determine the effects of the Circuit Board. You can read what each Tube does, in its §4tooltip§0.\n\nYou only have to make one of the Circuit Boards to complete the quest."
+          "desc:8": "Circuit Boards can be used to set the type of §4Farms§r, or §4upgrade machines§r.\n\nIn order to use a Circuit Board, right-click with a §4Soldering Iron§r, and put the Circuit Board in there. Depending on the Circuit Board, you\u0027ll have 1 to 4 possible slots for §4Tubes§r.\nThe Tubes you place in the Circuit Board determine the effects of the Circuit Board. You can read what each Tube does, in its §4tooltip§r.\n\nYou only have to make one of the Circuit Boards to complete the quest."
         }
       },
       "tasks:9": {
@@ -23876,7 +23876,7 @@
           "ismain:1": 0,
           "repeat_relative:1": 1,
           "name:8": "The Deep Dark",
-          "desc:8": "The Deep Dark is a scary, dark cave dimension. It has §2twice the ore generation §0of the Overworld.\n\nSomething\u0027s lurking in the darkness, you better bring torches."
+          "desc:8": "The Deep Dark is a scary, dark cave dimension. It has §2twice the ore generation §rof the Overworld.\n\nSomething\u0027s lurking in the darkness, you better bring torches."
         }
       },
       "tasks:9": {
@@ -24883,7 +24883,7 @@
           "ismain:1": 0,
           "repeat_relative:1": 1,
           "name:8": "Enchanter",
-          "desc:8": "The Enchanter is used to create various materials.\n\nIt §2§0requires §0§2§0power and enchantment boosting blocks, equal to atleast 15 enchanting levels, nearby§0. \n\n§3§2§1§4§5§8§9§9§215 Bookshelves would do the trick."
+          "desc:8": "The Enchanter is used to create various materials.\n\nIt §2§rrequires §r§2§rpower and enchantment boosting blocks, equal to atleast 15 enchanting levels, nearby§r. \n\n§3§2§1§4§5§8§9§9§215 Bookshelves would do the trick."
         }
       },
       "tasks:9": {
@@ -27902,7 +27902,7 @@
           "ismain:1": 0,
           "repeat_relative:1": 1,
           "name:8": "Gaia Guardian I",
-          "desc:8": "Consult the Lexica Botania for information on how to summon the Gaia Guardian.\n\n§4Hint§0: If you can\u0027t find anything about the Gaia Guardian in the Lexica Botania, try throwing it in the Alfheim portal."
+          "desc:8": "Consult the Lexica Botania for information on how to summon the Gaia Guardian.\n\n§4Hint§r: If you can\u0027t find anything about the Gaia Guardian in the Lexica Botania, try throwing it in the Alfheim portal."
         }
       },
       "tasks:9": {
@@ -33503,7 +33503,7 @@
           "ismain:1": 0,
           "repeat_relative:1": 1,
           "name:8": "Space Station ID Chip",
-          "desc:8": "It\u0027s §4extremely§0 important that you don\u0027t lose your Space Station ID Chip, once it has been set to your Space Station.§0 If you lose the chip, and don\u0027t have any other means of transport to the Space Station, it\u0027s lost.\n\nLuckily, it can be copied in the Satellite Builder multiblock."
+          "desc:8": "It\u0027s §4extremely§r important that you don\u0027t lose your Space Station ID Chip, once it has been set to your Space Station.§r If you lose the chip, and don\u0027t have any other means of transport to the Space Station, it\u0027s lost.\n\nLuckily, it can be copied in the Satellite Builder multiblock."
         }
       },
       "tasks:9": {
@@ -34437,7 +34437,7 @@
           "ismain:1": 0,
           "repeat_relative:1": 1,
           "name:8": "Environmental Tech",
-          "desc:8": "Welcome to Environmental Tech!\n\nThis mod features large §4multiblock machines§0, like the Solar Controller and the Void Ore Miner.\n\nThe multiblocks can be §3automatically assembled§0, if you right click with the Assembler on the Controller block that you wish to build the structure for.§4 It\u0027ll tell you the materials you need.§0 Once the materials are all in your inventory, right click the Controller with the Assembler again, and it\u0027ll build your structure!\n\nIn order to progress through the mod, you\u0027ll need tons of §2Litherite §0to start off with. Use that to build your first Void Ore Miner (Tier 1) - which will mine§2 Litherite§0, and the next tier crystal, for you. Build the next tier Ore Miner with your newly acquired crystals, and repeat the cycle until you reach Tier 6.\n\nAll of the crystals are used in lategame recipes."
+          "desc:8": "Welcome to Environmental Tech!\n\nThis mod features large §4multiblock machines§r, like the Solar Controller and the Void Ore Miner.\n\nThe multiblocks can be §3automatically assembled§r, if you right click with the Assembler on the Controller block that you wish to build the structure for.§4 It\u0027ll tell you the materials you need.§r Once the materials are all in your inventory, right click the Controller with the Assembler again, and it\u0027ll build your structure!\n\nIn order to progress through the mod, you\u0027ll need tons of §2Litherite §rto start off with. Use that to build your first Void Ore Miner (Tier 1) - which will mine§2 Litherite§r, and the next tier crystal, for you. Build the next tier Ore Miner with your newly acquired crystals, and repeat the cycle until you reach Tier 6.\n\nAll of the crystals are used in lategame recipes."
         }
       },
       "tasks:9": {
@@ -34690,7 +34690,7 @@
           "ismain:1": 1,
           "repeat_relative:1": 1,
           "name:8": "Draconic Evolution",
-          "desc:8": "Welcome to Draconic Evolution!\n\nThis mod is all about §4insanely powerful§0 armor, tools, items and blocks - At a high cost.\n\nYou\u0027ll need the majority of crafting components from Draconic Evolution to craft endgame items."
+          "desc:8": "Welcome to Draconic Evolution!\n\nThis mod is all about §4insanely powerful§r armor, tools, items and blocks - At a high cost.\n\nYou\u0027ll need the majority of crafting components from Draconic Evolution to craft endgame items."
         }
       },
       "tasks:9": {
@@ -38327,7 +38327,7 @@
           "ismain:1": 1,
           "repeat_relative:1": 1,
           "name:8": "Fusion Core",
-          "desc:8": "The Fusion Reactor is a large multiblock generator, capable of generating massive amounts of power.\n\nIt\u0027s a pretty complicated structure, so I highly advice that you watch a spotlight on it, or read through a guide. \n\nThe mod author made this spotlight on it:\n§1§9https://www.youtube.com/watch?v\u003dL-0LOtg2Plk\u0026t\u003d12s§0\n\n\n\n... That\u0027s not actually a hyperlink, it\u0027s just coloured text. Sorry.\n\nYou will need the Neutron fluid it produces as a byproduct for the Creative Tank."
+          "desc:8": "The Fusion Reactor is a large multiblock generator, capable of generating massive amounts of power.\n\nIt\u0027s a pretty complicated structure, so I highly advice that you watch a spotlight on it, or read through a guide. \n\nThe mod author made this spotlight on it:\n§1§9https://www.youtube.com/watch?v\u003dL-0LOtg2Plk\u0026t\u003d12s§r\n\n\n\n... That\u0027s not actually a hyperlink, it\u0027s just coloured text. Sorry.\n\nYou will need the Neutron fluid it produces as a byproduct for the Creative Tank."
         }
       },
       "tasks:9": {
@@ -38397,7 +38397,7 @@
           "ismain:1": 0,
           "repeat_relative:1": 1,
           "name:8": "Fission Controller",
-          "desc:8": "The Fission Reactor is a midgame multiblock generator capable of producing very large amounts of power.\n\nIt\u0027s a good idea to watch a guide or read a tutorial, to get an idea of how you operate the Fission Reactor.\n\nHere\u0027s a slightly outdated spotlight made by the mod author:\n\n§9https://www.youtube.com/watch?v\u003dG5pM93a0MGA\u0026t\u003d2s\n§0\n\nThat\u0027s not actually a hyperlink, it\u0027s just coloured text. Sorry.\n\nThe Fission Reactor multiblock parts all have pretty descriptive tooltips, so I suggest you read through those to get an idea of what\u0027s possible."
+          "desc:8": "The Fission Reactor is a midgame multiblock generator capable of producing very large amounts of power.\n\nIt\u0027s a good idea to watch a guide or read a tutorial, to get an idea of how you operate the Fission Reactor.\n\nHere\u0027s a slightly outdated spotlight made by the mod author:\n\n§9https://www.youtube.com/watch?v\u003dG5pM93a0MGA\u0026t\u003d2s\n§r\n\nThat\u0027s not actually a hyperlink, it\u0027s just coloured text. Sorry.\n\nThe Fission Reactor multiblock parts all have pretty descriptive tooltips, so I suggest you read through those to get an idea of what\u0027s possible."
         }
       },
       "tasks:9": {
@@ -38466,7 +38466,7 @@
           "ismain:1": 0,
           "repeat_relative:1": 1,
           "name:8": "Speed Upgrade",
-          "desc:8": "This upgrade decrease the process time of machines, at the cost of additional power. \n\n§4Note §0that some machines will reset their work if they run out of power."
+          "desc:8": "This upgrade decrease the process time of machines, at the cost of additional power. \n\n§4Note §rthat some machines will reset their work if they run out of power."
         }
       },
       "tasks:9": {
@@ -43883,7 +43883,7 @@
           "ismain:1": 0,
           "repeat_relative:1": 1,
           "name:8": "Blood Magic",
-          "desc:8": "Welcome to Blood Magic! \n\nBlood Magic is a magic mod centered around gaining power from sacrifice.\n\nIt offers a lot of cool gadgets such as the §1Sigils§0, not to mention a variety of building blocks.\n\nThe §6Sanguine Scientiem §0contains information on nearly all of Blood Magic, so for the most part, I\u0027ll be referring to that.\n\nBlood Magic contains crafting ingredients used in the late game."
+          "desc:8": "Welcome to Blood Magic! \n\nBlood Magic is a magic mod centered around gaining power from sacrifice.\n\nIt offers a lot of cool gadgets such as the §1Sigils§r, not to mention a variety of building blocks.\n\nThe §6Sanguine Scientiem §rcontains information on nearly all of Blood Magic, so for the most part, I\u0027ll be referring to that.\n\nBlood Magic contains crafting ingredients used in the late game."
         }
       },
       "tasks:9": {
@@ -44031,7 +44031,7 @@
           "ismain:1": 0,
           "repeat_relative:1": 1,
           "name:8": "Blood Altar Tier 1",
-          "desc:8": "The Blood Altar is the main crafting mechanic of Blood Magic - It infuses Life Essence (Blood) into items to transform them. The Tier 6 altar, although not implemented yet, is 23x9x23, so you should make plenty of room when preparing to build it.\n\nIt\u0027s a multiblock structure, that gets bigger with each tier. You can use the §4Inspectoris Scandalum§0 to visualize where the runes and such should be placed.\n\nSee the Sanguine Scientiem for details."
+          "desc:8": "The Blood Altar is the main crafting mechanic of Blood Magic - It infuses Life Essence (Blood) into items to transform them. The Tier 6 altar, although not implemented yet, is 23x9x23, so you should make plenty of room when preparing to build it.\n\nIt\u0027s a multiblock structure, that gets bigger with each tier. You can use the §4Inspectoris Scandalum§r to visualize where the runes and such should be placed.\n\nSee the Sanguine Scientiem for details."
         }
       },
       "tasks:9": {
@@ -46038,7 +46038,7 @@
           "ismain:1": 0,
           "repeat_relative:1": 1,
           "name:8": "Bound Blade",
-          "desc:8": "Kill hostile mobs with the Bound Blade for a chance to get Weak Blood Shards. \n\n§1§4Activate the Blade with Shift + Click.\n§0\nThe chance is affected by Looting. \n\nSee the Sanguine Scientiem for details."
+          "desc:8": "Kill hostile mobs with the Bound Blade for a chance to get Weak Blood Shards. \n\n§1§4Activate the Blade with Shift + Click.\n§r\nThe chance is affected by Looting. \n\nSee the Sanguine Scientiem for details."
         }
       },
       "tasks:9": {
@@ -46509,7 +46509,7 @@
           "name:8": "Thaumcraft",
           "autoClaim:8": "false",
           "isSilent:8": "true",
-          "desc:8": "Welcome to Thaumcraft, a tier 1 magic mod. Thaumcraft is one of the oldest magic mods around, and features a lot of interesting content, such as§2§2§0§0 §0§2Golems§0 and a §3spell system§0.\n§r\nYou have to progress in the Thaumonomicon to be able to progress in Thaumcraft. Although these quests provide some guidance, you will need to follow the Thaumonomicon.\n\nTo obtain the Thaumonomicon, you will need to pick up any Vis Crystal, then sleep, and lastly click on a Bookshelf with Salis Mundus.\n\nThis chapter leads to §9Astral Sorcery§0§r and §6Blood Magic§§."
+          "desc:8": "Welcome to Thaumcraft, a tier 1 magic mod. Thaumcraft is one of the oldest magic mods around, and features a lot of interesting content, such as§2§2§r§r §r§2Golems§r and a §3spell system§r.\n§r\nYou have to progress in the Thaumonomicon to be able to progress in Thaumcraft. Although these quests provide some guidance, you will need to follow the Thaumonomicon.\n\nTo obtain the Thaumonomicon, you will need to pick up any Vis Crystal, then sleep, and lastly click on a Bookshelf with Salis Mundus.\n\nThis chapter leads to §9Astral Sorcery§r§r and §6Blood Magic§§."
         }
       },
       "tasks:9": {
@@ -46860,7 +46860,7 @@
           "name:8": "Thaumometer",
           "autoClaim:8": "false",
           "isSilent:8": "true",
-          "desc:8": "See the Thaumonomicon for details.\n\n\n\n\n\n\n\n\n\n§2§0§2Hint§0:§0 Place items in a chest, and scan the chest."
+          "desc:8": "See the Thaumonomicon for details.\n\n\n\n\n\n\n\n\n\n§2§r§2Hint§r:§r Place items in a chest, and scan the chest."
         }
       },
       "tasks:9": {
@@ -50878,7 +50878,7 @@
           "ismain:1": 1,
           "repeat_relative:1": 1,
           "name:8": "Fusion Fuels",
-          "desc:8": "There are 28 possible Fusion Fuel combinations, with varying duration, power and heat generation. For the full list, see §1\nhttps://ftb.gamepedia.com/Fusion_Fuels_(NuclearCraft)§0§f\n§3§3§3§2\n§§§0The fuel combination with the highest base power generation is Deuterium-Tritium.\n\nThe fuel combination with the longest base duration is Tritium-Lithium7.\n\nThe fuel combination with the lowest heat generation is also Deuterium-Tritium.\n\n\n"
+          "desc:8": "There are 28 possible Fusion Fuel combinations, with varying duration, power and heat generation. For the full list, see §1\nhttps://ftb.gamepedia.com/Fusion_Fuels_(NuclearCraft)§r§f\n§3§3§3§2\n§§§rThe fuel combination with the highest base power generation is Deuterium-Tritium.\n\nThe fuel combination with the longest base duration is Tritium-Lithium7.\n\nThe fuel combination with the lowest heat generation is also Deuterium-Tritium.\n\n\n"
         }
       },
       "tasks:9": {
@@ -50954,7 +50954,7 @@
           "ismain:1": 0,
           "repeat_relative:1": 1,
           "name:8": "Fission Fuels",
-          "desc:8": "There are 52 possible Fission Fuels, with varying duration, power and heat generation. For the full list, see §1https://ftb.gamepedia.com/Fission_Fuels§0§r\n\nThe fuel with the highest base duration is TBU.\n\nThe fuel with the highest base power output is HECf-249 Oxide.\n\nThe fuel with the lowest base heat is also TBU."
+          "desc:8": "There are 52 possible Fission Fuels, with varying duration, power and heat generation. For the full list, see §1https://ftb.gamepedia.com/Fission_Fuels§r§r\n\nThe fuel with the highest base duration is TBU.\n\nThe fuel with the highest base power output is HECf-249 Oxide.\n\nThe fuel with the lowest base heat is also TBU."
         }
       },
       "tasks:9": {
