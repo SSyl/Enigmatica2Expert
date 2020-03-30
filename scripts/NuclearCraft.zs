@@ -1,10 +1,11 @@
 import mods.jei.JEI.removeAndHide as rh;
 #modloaded nuclearcraft
-print("--- loading NuclearCraft.zs ---");
 
-# Lithium Ingot Mekanism Compat
-	//mods.mekanism.smelter.addRecipe(<ic2:dust:11>, <nuclearcraft:ingot:6>);
-	
+# Removing an Obsidian dupe
+mods.nuclearcraft.melter.removeRecipeWithInput(<ore:obsidian>);
+mods.nuclearcraft.melter.removeRecipeWithInput(<ore:dustObsidian>);
+mods.nuclearcraft.melter.addRecipe(<ore:obsidian>, <liquid:obsidian> * 144);
+
 # Rhodochrosite
 	mods.actuallyadditions.AtomicReconstructor.addRecipe(<nuclearcraft:gem>, <biomesoplenty:gem:1>, 15000);
 
@@ -45,6 +46,14 @@ print("--- loading NuclearCraft.zs ---");
 	[[<ore:plateCopper>, <ic2:casing:1>, <ore:plateCopper>],
 	[<ore:stickAluminum>, <ic2:ingot>, <ore:stickAluminum>], 
 	[<ore:plateCopper>, <ic2:casing:1>, <ore:plateCopper>]]);
+
+# Nuclearcraft Battery fix
+	recipes.remove(<nuclearcraft:lithium_ion_battery_basic>);
+	recipes.addShapedMirrored(<nuclearcraft:lithium_ion_battery_basic>, 
+	[[<ore:plateBasic>, <nuclearcraft:lithium_ion_cell>, <ore:plateBasic>], 
+	[<nuclearcraft:lithium_ion_cell>, <ore:solenoidMagnesiumDiboride>, <nuclearcraft:lithium_ion_cell>], 
+	[<ore:plateBasic>, <nuclearcraft:lithium_ion_cell>, <ore:plateBasic>]
+	]);
 
 # Add missing ingots/bricks to ingot former
 	//Brick
@@ -96,6 +105,15 @@ print("--- loading NuclearCraft.zs ---");
 	rh(<nuclearcraft:alloy>);
 	rh(<nuclearcraft:alloy:5>);
 	rh(<nuclearcraft:ingot>);
+
+	
+# Remove Unused alloy recipes from EnderIO
+	mods.nuclearcraft.alloy_furnace.removeRecipeWithOutput(<enderio:item_alloy_endergy_ingot:1>);
+	mods.nuclearcraft.alloy_furnace.removeRecipeWithOutput(<enderio:item_alloy_endergy_ingot:2>);
+	mods.nuclearcraft.alloy_furnace.removeRecipeWithOutput(<enderio:item_alloy_endergy_ingot:3>*2);
+	mods.nuclearcraft.alloy_furnace.removeRecipeWithOutput(<enderio:item_alloy_endergy_ingot:5>);
+	mods.nuclearcraft.alloy_furnace.removeRecipeWithOutput(<enderio:item_alloy_endergy_ingot:6>);
+
 # *======= Recipes =======*
 
 	
