@@ -1,7 +1,6 @@
 import crafttweaker.item.IItemStack as IItemStack;
 import crafttweaker.liquid.ILiquidDefinition;
 import mods.jei.JEI.removeAndHide as rh;
-import mods.tcomplement.highoven.HighOven;
 #modloaded tconstruct
 print("--- loading TinkersConstruct.zs ---");
 
@@ -65,9 +64,6 @@ print("--- loading TinkersConstruct.zs ---");
 	[[<ore:blockSeared>, <tconstruct:seared_tank>, <ore:blockSeared>],
 	[<ore:blockSeared>, <tconstruct:smeltery_controller>, <ore:blockSeared>], 
 	[<ore:blockSeared>, <ore:blockSeared>, <ore:blockSeared>]]);	
-
-// HighOven.removeMixRecipe(ILiquidStack output, @Optional ILiquidStack input);
-	HighOven.removeMixRecipe(<liquid:steel>); // disable any steel-producing mix recipe
 
 # Large Plates in Immersive Engineering Metal Press
 	#OutputStack, InputStack, MoldStack, Energy, SizeValue
