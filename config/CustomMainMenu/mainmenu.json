@@ -142,18 +142,22 @@
         }       
     },
     
-    "labels":
-    {
-        "mojang":
-        {
-            "text" : "Copyright Mojang AB. Do not distribute!",
-            "posX" : 8,
-            "posY" : -15,
-            "color" : -1,
-            "alignment" : "bottom_left"
-        }
-    },
-    
+ 	"labels": {
+    	"mojang": {
+      		"text": "Copyright Mojang AB. Do not distribute!",
+      		"posX": -197,
+      		"posY": -10,
+      		"color": -1,
+      		"alignment": "bottom_right"
+    		},
+    	"fml": {
+      		"text": "",
+    		"posX": 2,
+      		"posY": -45,
+      		"color": -1,
+    		"alignment": "bottom_left"
+    }
+  },
     "other" : { 
     
         "background" : 
