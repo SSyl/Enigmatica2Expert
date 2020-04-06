@@ -167,9 +167,6 @@ for item in thaumcraftHintItems {
 	
 # XP Bucket
 	ad(<forge:bucketfilled>.withTag({FluidName: "xpjuice", Amount: 1000}),"Obtainable through the Fluid Transposer.");
-
-# Bibliocraft Clipboard
-	ad(<bibliocraft:biblioclipboard>,"Removed due to instability issues.");
 	
 # Pumpjack
 	ad(<forge:bucketfilled>.withTag({FluidName: "oil", Amount: 1000}),"The Pumpjack needs a pipe to bedrock to function.");
