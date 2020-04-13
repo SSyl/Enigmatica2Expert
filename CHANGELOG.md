@@ -1,7 +1,21 @@
 # Enigmatica 2: Expert Changelog
-## 1.79
+## 1.79a
 
-*Remember to use the command  `/bq_admin default load` when updating*
+*Using Forge-1.12.2-14.23.5.2847*
+
+*[Mod List](https://github.com/NillerMedDild/Enigmatica2Expert/blob/master/changelogs/CHANGELOG_MODS_1.79a.txt)*
+
+**Changes**
+
+* Only bugfixes, see [1.79](#1.79) for changes.
+
+**Bug Fixes**
+
+* Downgraded DankNull to fix a bug with items looking invisible inside the DankNull
+* Extra Utilities 2 UU matter tooltip [\#1625](https://github.com/NillerMedDild/Enigmatica2Expert/issues/1625)
+* PSI bar over screen [\#1618](https://github.com/NillerMedDild/Enigmatica2Expert/issues/1618)
+
+## 1.79
 
 *Using Forge-1.12.2-14.23.5.2847*
 
