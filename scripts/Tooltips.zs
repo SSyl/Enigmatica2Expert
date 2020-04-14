@@ -261,13 +261,12 @@ for item in thaumcraftHintItems {
 	<bigreactors:mineralanglesite>.displayName = "Anglesite";
 	<bigreactors:mineralbenitoite>.displayName = "Benitoite";
 	
-	ad(<bigreactors:minerals>, craftable);
-	ad(<bigreactors:minerals:1>, craftable);
+	addDescription(<bigreactors:mineralanglesite>, craftable);
+	addDescription(<bigreactors:mineralbenitoite>, craftable);
 
 # Uncraftable ingots
-	ad(<bigreactors:ingotmetals:3>,"Block of Blutonium is craftable.");
-	ad(<bigreactors:ingotmetals:4>,"Block of Ludicrite is craftable.");
-
+	addDescription(<bigreactors:ingotblutonium>,"Block of Blutonium is craftable.");
+	addDescription(<bigreactors:ingotludicrite>,"Block of Ludicrite is craftable.");
 # Mana Infused Ingot
 	addDescription(<thermalfoundation:material:136>,"Only obtainable through the Metallurgic Infuser, the Advanced Metallurgic Fabricator, and other planets.");
 
