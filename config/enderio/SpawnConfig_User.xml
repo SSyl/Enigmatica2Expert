@@ -57,7 +57,6 @@
   <biomeFilter type="any">
     <biome type="FOREST" />
     <biome type="RIVER" />
-    <biome type="SNOWY" />
     <biome type="WASTELAND" exclude="true" />
     <biome type="JUNGLE" exclude="true" />
     <biome type="NETHER" exclude="true" />
