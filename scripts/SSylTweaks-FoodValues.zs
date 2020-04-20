@@ -44,8 +44,8 @@ print("--- loading SSylTweaks-FoodValuess.zs ---");
 #Bacon
 <actuallyadditions:item_food:20>.foodValues.hunger = 2;
 #Coffee
-<actuallyadditions:item_coffee>.foodValues.hunger = 3;
-<actuallyadditions:item_coffee>.foodValues.saturationModifier = 2;
+<actuallyadditions:item_coffee:*>.foodValues.hunger = 2;
+<actuallyadditions:item_coffee:*>.foodValues.saturationModifier = 3;
 
 <animania:plain_omelette>.foodValues.hunger = 3;
 <animania:truffle_soup>.foodValues.hunger = 4;
