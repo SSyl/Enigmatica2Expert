@@ -34,5 +34,10 @@
     "mob": "quark:foxhound",
     "mincount":"20",
     "result": "deny"
+	},
+	{
+	"dimension": -11325,
+	"mod": "animania",
+	"result": "deny"
 	}
 ]
