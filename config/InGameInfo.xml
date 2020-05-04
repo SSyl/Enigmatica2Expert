@@ -16,6 +16,18 @@
             <str>{abrfinedirection}</str>
         </line>
     </lines>
+    <lines at="bottomcenter">
+    	<line>
+    		<if>
+    			<var>sprinting</var>
+    			<str>§oSprinting</str>
+    		</if>
+    		<if>
+    			<var>sneaking</var>
+    			<str>§oSneaking</str>
+    		</if>
+    	</line>
+    </lines>
     <lines at="bottomright">
         <line>
             <var>mainhandicon</var>
