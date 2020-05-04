@@ -142,20 +142,20 @@
         }       
     },
     
- 	"labels": {
-    	"mojang": {
-      		"text": "Copyright Mojang AB. Do not distribute!",
-      		"posX": -197,
-      		"posY": -10,
-      		"color": -1,
-      		"alignment": "bottom_right"
-    		},
-    	"fml": {
-      		"text": "",
-    		"posX": 2,
-      		"posY": -45,
-      		"color": -1,
-    		"alignment": "bottom_left"
+    "labels": {
+        "mojang": {
+            "text": "Copyright Mojang AB. Do not distribute!",
+            "posX": -197,
+            "posY": -10,
+            "color": -1,
+            "alignment": "bottom_right"
+            },
+        "fml": {
+            "text": "",
+            "posX": 2,
+            "posY": -45,
+            "color": -1,
+            "alignment": "bottom_left"
     }
   },
     "other" : { 
@@ -167,17 +167,30 @@
             {
                 "images" : 
                 [
-                "modpack:textures/gui/slideshow1.png","modpack:textures/gui/slideshow2.png",
-                "modpack:textures/gui/slideshow3.png","modpack:textures/gui/slideshow4.png",
-                "modpack:textures/gui/slideshow5.png","modpack:textures/gui/slideshow6.png",
-                "modpack:textures/gui/slideshow7.png","modpack:textures/gui/slideshow8.png",
-                "modpack:textures/gui/slideshow9.png","modpack:textures/gui/slideshow10.png",
-                "modpack:textures/gui/slideshow11.png","modpack:textures/gui/slideshow12.png",
-                "modpack:textures/gui/slideshow13.png","modpack:textures/gui/slideshow14.png",
-                "modpack:textures/gui/slideshow15.png","modpack:textures/gui/slideshow16.png",
-                "modpack:textures/gui/slideshow17.png","modpack:textures/gui/slideshow18.png",
-                "modpack:textures/gui/slideshow19.png","modpack:textures/gui/slideshow20.png",
-                "modpack:textures/gui/slideshow21.png"
+                "modpack:textures/gui/slideshow1.png",
+                "modpack:textures/gui/slideshow2.png",
+                "modpack:textures/gui/slideshow3.png",
+                "modpack:textures/gui/slideshow4.png",
+                "modpack:textures/gui/slideshow5.png",
+                "modpack:textures/gui/slideshow6.png",
+                "modpack:textures/gui/slideshow7.png",
+                "modpack:textures/gui/slideshow8.png",
+                "modpack:textures/gui/slideshow9.png",
+                "modpack:textures/gui/slideshow10.png",
+                "modpack:textures/gui/slideshow11.png",
+                "modpack:textures/gui/slideshow12.png",
+                "modpack:textures/gui/slideshow13.png",
+                "modpack:textures/gui/slideshow14.png",
+                "modpack:textures/gui/slideshow15.png",
+                "modpack:textures/gui/slideshow16.png",
+                "modpack:textures/gui/slideshow17.png",
+                "modpack:textures/gui/slideshow18.png",
+                "modpack:textures/gui/slideshow19.png",
+                "modpack:textures/gui/slideshow20.png",
+                "modpack:textures/gui/slideshow21.png",
+                "modpack:textures/gui/slideshow22.png",
+                "modpack:textures/gui/slideshow23.png",
+                "modpack:textures/gui/slideshow24.png"
                 ],
                 "displayDuration" : 100,
                 "fadeDuration" : 30,
