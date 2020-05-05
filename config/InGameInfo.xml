@@ -17,16 +17,16 @@
         </line>
     </lines>
     <lines at="bottomcenter">
-    	<line>
-    		<if>
-    			<var>sprinting</var>
-    			<str>§oSprinting</str>
-    		</if>
-    		<if>
-    			<var>sneaking</var>
-    			<str>§oSneaking</str>
-    		</if>
-    	</line>
+        <line>
+            <if>
+                <var>sprinting</var>
+                <str>§6§oSprinting</str>
+            </if>
+            <if>
+                <var>sneaking</var>
+                <str>§9§oSneaking</str>
+            </if>
+        </line>
     </lines>
     <lines at="bottomright">
         <line>
