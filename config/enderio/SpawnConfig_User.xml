@@ -67,4 +67,7 @@
 <entry id="LoveChild" mobName="enderiozoo:lovechild" creatureType="MONSTER" rate="10" minGroupSize="1" maxGroupSize="1" remove="true">
 </entry>
 
+<entry id="EpicSquid" mobName="enderiozoo:epicsquid" creatureType="WATER_CREATURE" rate="1" minGroupSize="1" maxGroupSize="1" remove="true">
+</entry>
+
 </SpawnConfig>
